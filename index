@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Your Store</title>
+<title>DemoShop</title>
 <base href="https://demo.opencart.com/" />
 <meta name="description" content="My Store" />
 <script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
@@ -24,7 +24,7 @@
 <div class="container"><div class="pull-left">
 <form action="https://demo.opencart.com/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency">
 <div class="btn-group">
-<button class="btn btn-link dropdown-toggle" data-toggle="dropdown"> <strong>$</strong> <span class="hidden-xs hidden-sm hidden-md">Currency</span>&nbsp;<i class="fa fa-caret-down">::before</i></button>
+<button class="btn btn-link dropdown-toggle" data-toggle="dropdown"> <strong>$</strong> <span class="hidden-xs hidden-sm hidden-md">Currency</span>&nbsp;<i class="fa fa-caret-down"></i></button>
 <ul class="dropdown-menu">
 <li>
 <button class="currency-select btn btn-link btn-block" type="button" name="EUR">€ Euro</button>
