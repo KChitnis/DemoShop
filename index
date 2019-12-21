@@ -15,8 +15,6 @@
       <div id=dialog-notifications-warning title=Warning style=display:none></div>
       <div id=bar-notification class=bar-notification-container data-close=Close></div>
      
-      <div style=clear:both;height:59px;text-align:center;position:relative><a href=//www.microsoft.com/windows/internet-explorer/default.aspx target=_blank> <img src=/Themes/DefaultClean/Content/images/ie_warning.jpg height=42 width=820 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."> </a></div>
-     
       <div class=master-wrapper-page>
          <div class=header>
             <div class=header-upper>
