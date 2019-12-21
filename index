@@ -2,11 +2,7 @@
 <html lang=en class=html-home-page>
    <head>
       <title>demo store</title>
-      <meta charset=UTF-8>
-      <meta name=description content="nopCommerce is the open-source eCommerce solution. nopCommerce is available for free. It has everything you need to get started in selling physical and digital goods over the internet.">
-      <meta name=keywords content="open source ecommerce,open-source ecommerce,C# shopping cart,C#,asp.net e-commerce storefront,asp.net web store,.net ecommerce,C# shopping cart,shopping cart,e-commerce">
-      <meta name=generator content=nopCommerce>
-      <meta name=viewport content="width=device-width, initial-scale=1">
+      
       <link href=/bundles/qhd2yleepc_jlote-mu6hm0u5ov-hp2vfvfd-kzezis.min.css rel=stylesheet>
    <body>
       <div class=ajax-loading-block-window style=display:none></div>
