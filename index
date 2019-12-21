@@ -24,7 +24,7 @@
 <div class="container"><div class="pull-left">
 <form action="https://demo.opencart.com/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency">
 <div class="btn-group">
-<button class="btn btn-link dropdown-toggle" data-toggle="dropdown"> <strong>$</strong> <span class="hidden-xs hidden-sm hidden-md">Currency</span>&nbsp;<i class="fa fa-caret-down"></i></button>
+<button class="btn btn-link dropdown-toggle" data-toggle="dropdown"> <strong>$</strong> <span class="hidden-xs hidden-sm hidden-md">Currency</span>&nbsp;</button>
 <ul class="dropdown-menu">
 <li>
 <button class="currency-select btn btn-link btn-block" type="button" name="EUR">€ Euro</button>
@@ -64,6 +64,12 @@
 <div id="logo"> <h1><a href="https://demo.opencart.com/index.php?route=common/home">Your Store</a></h1>
 </div>
 </div>
+<div class="col-sm-5"><div id="search" class="input-group">
+<input type="text" name="search" value="" placeholder="Search" class="form-control input-lg" />
+<span class="input-group-btn">
+<button type="button" class="btn btn-default btn-lg"><i class="fa fa-search"></i></button>
+</span>
+</div></div>
 <div class="col-sm-5"><div id="search" class="input-group">
 <input type="text" name="search" value="" placeholder="Search" class="form-control input-lg" />
 <span class="input-group-btn">
