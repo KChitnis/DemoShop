@@ -157,30 +157,11 @@ $('#slideshow0').swiper({
 <div class="row">
 <div class="product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12">
 <div class="product-thumb transition">
-<div class="image"><a href="chair.jpg"><img src="file:///home/azazel/Work/Git/DemoShop/images/chair.jpg" alt="chair" title="Comfy Chair" class="img-responsive"/></a></div>
+<div class="image"><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=40"><img src="file:///home/azazel/Work/Git/DemoShop/images/chair.jpg" alt="iPhone" title="iPhone" class="img-responsive" /></a></div>
 <div class="caption">
-<h4><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=43">Comfy Chair</a></h4>
+<h4><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=40">Comfy Chair</a></h4>
 <p>
 Made from high quality Alcantara</p>
-<p class="price">
-$60.00
-<span class="price-tax">Ex Tax: $50.00</span>
-</p>
-</div>
-<div class="button-group">
-<button type="button" onclick="cart.add('43');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md">Add to Cart</span></button>
-<button type="button" data-toggle="tooltip" title="Add to Wish List" onclick="wishlist.add('43');"><i class="fa fa-heart"></i></button>
-<button type="button" data-toggle="tooltip" title="Compare this Product" onclick="compare.add('43');"><i class="fa fa-exchange"></i></button>
-</div>
-</div>
-</div>
-<div class="product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12">
-<div class="product-thumb transition">
-<div class="image"><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=40"><img src="file:///home/azazel/Work/Git/DemoShop/images/chair2.jpg" alt="iPhone" title="iPhone" class="img-responsive" /></a></div>
-<div class="caption">
-<h4><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=40">iPhone</a></h4>
-<p>
-iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a nam..</p>
 <p class="price">
 $123.20
  <span class="price-tax">Ex Tax: $101.00</span>
@@ -195,11 +176,30 @@ $123.20
 </div>
 <div class="product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12">
 <div class="product-thumb transition">
-<div class="image"><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=42"><img src="https://demo.opencart.com/image/cache/catalog/demo/apple_cinema_30-200x200.jpg" alt="Apple Cinema 30&quot;" title="Apple Cinema 30&quot;" class="img-responsive" /></a></div>
+<div class="image"><a href="chair.jpg"><img src="file:///home/azazel/Work/Git/DemoShop/images/chair2.jpg" alt="chair" title="Comfy Chair" class="img-responsive"/></a></div>
 <div class="caption">
-<h4><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=42">Apple Cinema 30&quot;</a></h4>
+<h4><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=43">Metal Chairs</a></h4>
 <p>
-The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed sp..</p>
+Made from high quality Stainless Steel.</p>
+<p class="price">
+$60.00
+<span class="price-tax">Ex Tax: $50.00</span>
+</p>
+</div>
+<div class="button-group">
+<button type="button" onclick="cart.add('43');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md">Add to Cart</span></button>
+<button type="button" data-toggle="tooltip" title="Add to Wish List" onclick="wishlist.add('43');"><i class="fa fa-heart"></i></button>
+<button type="button" data-toggle="tooltip" title="Compare this Product" onclick="compare.add('43');"><i class="fa fa-exchange"></i></button>
+</div>
+</div>
+</div>
+<div class="product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="product-thumb transition">
+<div class="image"><img src="file:///home/azazel/Work/Git/DemoShop/images/sofa.jpg" alt="Apple Cinema 30&quot;" title="Apple Cinema 30&quot;" class="img-responsive" /></a></div>
+<div class="caption">
+<h4><a href="">Green Sofa</a></h4>
+<p>
+Soft, comfortable and easy to maintain.</p>
 <p class="price">
 <span class="price-new">$110.00</span> <span class="price-old">$122.00</span>
 <span class="price-tax">Ex Tax: $90.00</span>
@@ -214,7 +214,7 @@ The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolu
 </div>
 <div class="product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12">
 <div class="product-thumb transition">
-<div class="image"><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=30"><img src="https://demo.opencart.com/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg" alt="Canon EOS 5D" title="Canon EOS 5D" class="img-responsive" /></a></div>
+<div class="image"><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=30"><img src="file:///home/azazel/Work/Git/DemoShop/images/elevator.jpg" alt="Canon EOS 5D" title="Canon EOS 5D" class="img-responsive" /></a></div>
 <div class="caption">
 <h4><a href="https://demo.opencart.com/index.php?route=product/product&amp;product_id=30">Canon EOS 5D</a></h4>
 <p>
