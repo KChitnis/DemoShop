@@ -1,3 +1,0 @@
-Before hosting the site, or testing locally, Do the following:
-
-Remove all the "file:///home/azazel/Work/DemoShop" from all files.
